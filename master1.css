@@ -1,0 +1,216 @@
+.logo{
+
+    color: white;
+    background-color:  rgba(22, 22, 156, 0.861);
+    width: fit-content;
+    font-family: cursive;
+    padding: 8px 10px 10px 10px;
+    border: 1px solid  rgba(22, 22, 156, 0.861);
+    border-radius: 5px;
+    margin-left: 20px;
+    position: absolute;
+    top: 20px; 
+
+}
+.logo_place{
+    background-color: rgba(22, 22, 156, 0.861);
+    height: 200px;
+    position: relative;
+    
+}
+body{
+    margin: 0%;
+    
+}
+.sticky_search{
+    margin: -30px auto 0px ;
+    width: 80%;
+    height: 50px;
+    background-color: rgb(247, 244, 244);
+    position: sticky ;
+    top: 5px;
+    border: 2px solid orange;
+    border-radius: 2px;
+    z-index: 100;
+ 
+} 
+
+
+button{
+    width: fit-content;
+    padding: 15px;
+    position: absolute;
+    right: 0;
+   
+    border: 3px  solid orange;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+ 
+}
+
+.gg , .hh , .mm{
+ position: absolute;
+  
+ 
+ }
+.gg{
+    width : 200px;
+    height : 250px;
+    background-color : rgb(214, 207, 207);
+    border-radius : 5px;
+    border-style : solid;
+    border-color: orange;
+    margin-top : 50px; 
+    left: 130px;
+ }
+.hh{
+    width: 200px;
+    height: 250px;
+    background-color: rgb(214, 207, 207);
+    border-radius: 5px;
+    border-style: solid;
+    border-color: orange;
+    margin-top: 50px; 
+    left: 480px;
+
+}
+.mm{
+    width: 200px;
+    height: 250px;
+    background-color: rgb(214, 207, 207);
+    border-radius: 5px;
+    border-style: solid;
+    border-color: orange;
+    left: 845px;
+    margin-top: 50px; 
+}
+
+.photo{
+    width: 250px;
+    margin-top: 25px;
+    margin-left: 25px;
+  
+}
+.name_city1{
+
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#loginplace{
+    text-align: end;
+    width: fit-content;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  display: block;
+  /*z-index: 6;*/
+}
+#profile1{
+    position: absolute;
+    width: fit-content;
+   background-color: aliceblue; 
+   
+   padding: 8px;
+   right: 114px;
+   top: 15px;
+   border-radius: 5px;
+   font-family: cursive;
+   display: none;
+}
+
+#place{
+    text-align: end;
+    width: fit-content;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  display: none;
+  
+}
+#namelink{
+
+       text-decoration: none;
+       color: rgb(88, 160, 223);
+       word-spacing: 1px;
+       background-color: white;
+       padding: 6px 8px;
+       font-size: large;
+       font-family: cursive;
+       border-radius: 3px;       
+    
+}
+
+#namelink1{
+
+       text-decoration: none;
+       color: rgb(88, 160, 223);
+       word-spacing: 1px;
+       background-color: white;
+       padding: 6px 8px;
+       font-size: large;
+       font-family: cursive;
+       border-radius: 3px;       
+    
+}
+
+
+/* .first-div{
+    width: 800px;
+    height: 300px;
+    margin: 10px auto;
+    background-color: rgb(51, 45, 45);
+   
+    position: fixed;
+}
+
+.gg , .hh , .mm{
+ 
+position : absloute ;
+ display: inline-block;
+ 
+ }
+.gg{
+    width : 200px;
+    height : 250px;
+    background-color : rgb(214, 207, 207);
+    border-radius : 5px;
+    border-style : solid;
+    border-color: orange;
+   
+    margin-left: 10px;
+
+    
+ }
+.hh{
+    width: 200px;
+    height: 250px;
+    background-color: rgb(214, 207, 207);
+    border-radius: 5px;
+    border-style: solid;
+    border-color: orange;
+    left: 30px;
+   
+
+}
+.mm{
+    width: 200px;
+    height: 250px;
+    background-color: rgb(214, 207, 207);
+    border-radius: 5px;
+    border-style: solid;
+    border-color: orange;
+    
+}
+
+.photo{
+    width: 250px;
+    margin-top: 25px;
+    margin-left: 25px;
+  
+}
+.name_city1{
+
+    margin-top: 50px;
+    margin-left: 50px;
+} */
